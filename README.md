@@ -22,3 +22,6 @@
     
 ### Скриншот приложения:
 ![image](https://user-images.githubusercontent.com/85176272/211212959-66fc7491-cc53-47be-9aef-4baf3f3a5a51.png)
+
+### Текстовое описание протокола:
+
